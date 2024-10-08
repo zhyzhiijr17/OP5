@@ -1,0 +1,15 @@
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.exe
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.deps.json
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.runtimeconfig.json
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.dll
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\bin\Debug\net8.0\ConsoleApp6.pdb
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.GeneratedMSBuildEditorConfig.editorconfig
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfoInputs.cache
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.AssemblyInfo.cs
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.csproj.CoreCompileInputs.cache
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.sourcelink.json
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.dll
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\refint\ConsoleApp6.dll
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.pdb
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ConsoleApp6.genruntimeconfig.cache
+D:\oop\oop_2024\oop5\ConsoleApp6\ConsoleApp6\obj\Debug\net8.0\ref\ConsoleApp6.dll
